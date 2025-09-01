@@ -3,7 +3,7 @@
 Quick application I built while taking a pre-requisite course for my Master's degree in Computer Science
 
 ### Build & Run
-- `make debug`
+- `make`
 - `./a.out`
 
 ### Debug & Run
